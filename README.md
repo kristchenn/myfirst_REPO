@@ -18,5 +18,6 @@ This is the [notebook](https://colab.research.google.com/github/kristchenn/myfir
 
 ### Image
 
-https://user-images.githubusercontent.com/118340267/240791628-e69f209d-5ca7-4d01-81ee-2dd76ae7a96c.png
+![image](https://github.com/kristchenn/myfirst_REPO/assets/118340267/e7ccdcad-f638-4436-a506-b6f5eeb0606c)
+
 
